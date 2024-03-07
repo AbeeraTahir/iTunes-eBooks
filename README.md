@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# 📖 JavaScript Capstone - API-based webapp
+# 📖 iTunes eBooks
 
-> This JavaScript capstone project is built on [iTunes Search API](https://performance-partners.apple.com/search-api), an external API which is used to get the data of different ebooks, and an [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) which is used to record the user interactions including likes and comments. The project covers the following mentioned points:
+iTunes eBooks is a website, built with JavaScript, [iTunes Search API](https://performance-partners.apple.com/search-api), an external API which is used to get the data of different ebooks, and an [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) which is used to record the user interactions including likes and comments. The project covers the following mentioned points:
 
 - _The main page shows a list of ebooks (retrieved from the iTunes Search API) that you can like._
 - _A popup window showing the book details and the comment section._
